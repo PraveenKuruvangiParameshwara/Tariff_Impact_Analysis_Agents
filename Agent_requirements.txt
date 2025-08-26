@@ -1,0 +1,5 @@
+# List of all required Python libraries
+crewai
+crewai_tools
+owlready2
+google-cloud-aiplatform
